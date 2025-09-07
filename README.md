@@ -19,9 +19,6 @@ The app uses AI, gamification, and personalized rewards to make love, commitment
 - *Cloud Services:* AWS / Firebase (hosting, authentication, notifications)
 - *APIs & Integrations:* Razorpay / Stripe (payments), Twilio / SendGrid (notifications)
 
-## Demo
-[Add screenshots or GIFs of your app here]
-
 ## How to Use
 1. Open the app
 2. Create an account and connect with your partner
