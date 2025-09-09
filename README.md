@@ -187,24 +187,6 @@ Heartvest proves that *technology can enhance human connections*, making relatio
 
 ---
 
-## *License*
-
-MIT License – See [LICENSE.md](LICENSE.md)
-
----
-
-## *Contributing*
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.  
-
----
-
-## *Code of Conduct*
-
-See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for community rules.  
-
----
-
 ## *Conclusion*
 
 Heartvest is more than a project—it’s a *vision for human-first technology*. By combining gamification, conceptual AI, and behavioral psychology, Heartvest demonstrates how technology can:  
