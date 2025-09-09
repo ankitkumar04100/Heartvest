@@ -78,7 +78,7 @@ Unlike ordinary relationship apps or gamification tools:
 - *Cloud / Hosting:* AWS / Firebase (authentication, storage, notifications)  
 - *Notifications:* Twilio / SendGrid (planned)  
 - *Payments:* Razorpay / Stripe placeholders (future integration)  
-- *AI Model (Conceptual):* GPT-OSS-20B for personalized suggestions  
+- *AI Model (Conceptual):* GPT-OSS-20B or GPT-OSS-120B for personalized suggestions  
 - *Libraries & Tools:* NumPy, Pandas, Axios, React Navigation, Firebase Admin SDK  
 
 > Note: The above tech stack is *planned, and Heartvest currently exists as a **conceptual prototype*.  
@@ -89,14 +89,19 @@ Unlike ordinary relationship apps or gamification tools:
 
 1. *Sign Up & Partner Linking*  
    - Users create accounts and connect with their partner.  
+
 2. *Daily Investments*  
    - Couples log daily relationship actions.  
+
 3. *AI Suggestions*  
    - Conceptual AI generates personalized tips and reminders for engagement.  
+
 4. *Track Milestones*  
    - Dashboard displays points, badges, and growth progress.  
+
 5. *Earn Rewards*  
    - Rewards are given for consistent activity and milestone achievements.  
+
 6. *Notifications*  
    - Daily alerts and reminders keep couples motivated and consistent.  
 
@@ -118,7 +123,7 @@ Unlike ordinary relationship apps or gamification tools:
 2. Apply conceptual AI logic to check personalized suggestions.  
 3. Track milestone progress and rewards in the sample dashboard.  
 4. Test notifications and alerts using mockups or flow diagrams.  
-5. Explore user journey examples to ensure engagement patterns make sense. 
+5. Explore user journey examples to ensure engagement patterns make sense.  
 
 ---
 
@@ -135,15 +140,42 @@ Heartvest proves that *technology can enhance human connections*, making relatio
 
 ---
 
-## *Next Steps / Roadmap*
+## *Accomplishments We’re Proud Of*
 
-- Develop *UI mockups and prototypes* for demonstration  
-- Implement *frontend using React Native*  
-- Build *backend Python modules* for reward computation  
-- Integrate *conceptual AI model* for personalized suggestions  
-- Add *notifications and milestone tracking*  
-- Conduct *prototype testing* with sample data  
-- Prepare *hackathon demo and documentation*  
+- Conceptualized *AI-driven personalized relationship guidance*  
+- Designed *gamified reward system for long-term commitment*  
+- Created *sample datasets and milestone dashboard flow*  
+- Prepared *professional GitHub repo structure* with CI, issue templates, and contribution guidelines  
+
+---
+
+## *Challenges We Ran Into*
+
+- Designing a *human-first AI system without real deployment*  
+- Creating *engaging gamification mechanics*  
+- Modeling *relationship investments and reward multipliers*  
+- Ensuring *conceptual flow is clear to judges without a working app*  
+
+---
+
+## *Learnings*
+
+- Deep understanding of *AI and gamification for human behavior*  
+- Importance of *sample data & conceptual workflow* in hackathons  
+- How to make *relationship growth measurable and rewarding*  
+- Effective *documentation and GitHub structuring* for hackathon submission  
+
+---
+
+## *Built With (Planned / Conceptual)*
+
+- *Languages:* Python, JavaScript (React Native)  
+- *Frameworks:* Flask/Django, React Native  
+- *Databases:* Firebase Firestore / PostgreSQL  
+- *Cloud:* AWS, Firebase  
+- *APIs:* Twilio, SendGrid  
+- *AI Models:* GPT-OSS-20B or GPT-OSS-120B  
+- *Libraries & Tools:* NumPy, Pandas, Axios, React Navigation, Firebase Admin SDK  
 
 ---
 
@@ -151,7 +183,25 @@ Heartvest proves that *technology can enhance human connections*, making relatio
 
 - *Project Creator:* Ankit Kumar  
 - *Email:* ankitkumarforall@gmail.com
-- *GitHub:* https://github.com/ankitkumar04100/Heartvest 
+- *GitHub Repo:* https://github.com/ankitkumar04100/Heartvest  
+
+---
+
+## *License*
+
+MIT License – See [LICENSE.md](LICENSE.md)
+
+---
+
+## *Contributing*
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.  
+
+---
+
+## *Code of Conduct*
+
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for community rules.  
 
 ---
 
