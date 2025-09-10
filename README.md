@@ -12,6 +12,21 @@ Experience Heartvest’s concept in action!
 Click here to explore the demo: [Heartvest Live Prototype](https://preview--trust-and-thrive.lovable.app/)  
 (Note: This is a conceptual guest experience showcasing the core Flow & UI.)
 
+##  🎥 Demo Video
+
+Want to see Heartvest in action? Watch our 2–3 minute walkthrough:
+
+[![Watch the Heartvest Demo](https://img.youtube.com/vi/uGCKM9GZb_Q/0.jpg)](https://youtu.be/uGCKM9GZb_Q)
+
+This video demonstrates:
+
+-  How couples log daily relationship “investments”
+-  AI-powered suggestions inspired by GPT-OSS
+-  Progress tracking via a milestone dashboard
+-  Gamified engagement with points, badges, and rewards
+
+This live demo helps you experience Heartvest’s flow, features, and vision—designed to bring relationship-building to the next level.
+
 ## *Tagline*
 "Invest in love, grow together, and celebrate milestones – Heartvest turns relationships into a rewarding journey."
 
