@@ -1,0 +1,41 @@
+from flask import Flask, request, jsonify
+
+app = Flask(_name_)
+
+# Sample in-memory "database"
+users = []
+investments = {}
+
+@app.route("/")
+def home():
+    return {"message": "Welcome to Heartvest API 💖"}
+
+@app.route("/register", methods=["POST"])
+def register():
+    data = request.json
+    username = data.get("username")
+    if username in users:
+        return {"error": "User already exists"}, 400
+    users.append(username)
+    investments[username] = []
+    return {"message": f"User {username} registered successfully"}
+
+@app.route("/invest", methods=["POST"])
+def invest():
+    data = request.json
+    username = data.get("username")
+    amount = data.get("amount")
+    if username not in users:
+        return {"error": "User not found"}, 404
+    investments[username].append(amount)
+    return {"message": f"{amount} invested by {username}"}
+
+@app.route("/summary/<username>", methods=["GET"])
+def summary(username):
+    if username not in users:
+        return {"error": "User not found"}, 404
+    total = sum(investments[username])
+    return {"username": username, "total_invested": total, "entries": investments[username]}
+
+if _name_ == "_main_":
+    app.run(debug=True)
