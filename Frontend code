@@ -1,0 +1,14 @@
+import React from "react";
+
+function App() {
+  return (
+    <div style={{ textAlign: "center", marginTop: "50px" }}>
+      <h1>❤️ Heartvest</h1>
+      <p>Your Relationship Investment Tracker</p>
+      <button onClick={() => alert("Login coming soon!")}>Login</button>
+      <button onClick={() => alert("Register coming soon!")}>Register</button>
+    </div>
+  );
+}
+
+export default App;
