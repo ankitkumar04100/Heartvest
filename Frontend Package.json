@@ -1,0 +1,9 @@
+{
+  "name": "heartvest-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Heartvest - Relationship Investment Platform",
+  "main": "App.js",
+  "scripts": {
+    "start": "echo 'Run React app here!'"
+  }
+}
