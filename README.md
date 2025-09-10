@@ -6,6 +6,12 @@ Even though Heartvest is currently in the *concept and prototype stage, the proj
 
 ---
 
+##  Try the Live Demo
+
+Experience Heartvest’s concept in action!  
+Click here to explore the demo: [Heartvest Live Prototype](https://preview--trust-and-thrive.lovable.app/)  
+(Note: This is a conceptual guest experience showcasing the core Flow & UI.)
+
 ## *Tagline*
 "Invest in love, grow together, and celebrate milestones – Heartvest turns relationships into a rewarding journey."
 
