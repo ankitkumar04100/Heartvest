@@ -37,7 +37,7 @@ Heartvest emphasizes *human-first AI—designed to **assist and guide, not repla
 
 3. *Gamification & Reward System*  
    - Earn points, badges, and rewards for consistent engagement.  
-   - Rewards include virtual gifts, travel experiences, or personalized surprises.  
+   - Rewards include virtual gifts, travel experiences, or personalized surprises.
 
 4. *Reward Multiplier System*  
    - Couples can multiply their relationship “investment” by achieving milestones.  
@@ -57,6 +57,10 @@ Heartvest emphasizes *human-first AI—designed to **assist and guide, not repla
 8. *Secure Payment Concept (Optional Future Feature)*  
    - Planned integration with Razorpay / Stripe for relationship “investment” tracking.  
 
+9. *Reward Multiplier System
+   -Couples can multiply their relationship “investment” by achieving milestones.
+   -Incentivizes long-term commitment, consistency, and shared growth.
+   -Couples can also choose investment plans where their points or “relationship investments” get 2x value or bonus rewards after certain periods.
 ---
 
 ## *Why Heartvest Is Unique*
